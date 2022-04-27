@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<odoo>
-  <menuitem id="main_rental_menu" name="Alquileres" />
-
-  <menuitem id="rental_menu" name="Alquileres"
-            parent="main_rental_menu"/>
-</odoo>
